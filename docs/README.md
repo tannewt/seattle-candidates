@@ -1,11 +1,16 @@
-# Mayoral forums
+# November 2, 2021
+
+Primary is **August 3, 2021**
+
+[Source](http://web6.seattle.gov/ethics/elections/faqs.aspx?cycle=2021)
 
 ## May 19th - MLK Labor
 
 > Join us on May 19 to hear from Seattle's Mayoral candidates on how they would address the biggest issues facing working people in our city. RSVP to the livestream at http://fb.me/e/4eThuuCgJ
 
-Source: https://twitter.com/MLKLabor/status/1392245038579474438
-Livestream: https://www.mlklabor.org/events/
+[Source](https://twitter.com/MLKLabor/status/1392245038579474438) | 
+[Facebook Live](http://fb.me/e/4eThuuCgJ) | 
+[Zoom Livestream](https://www.mlklabor.org/events/)
 
 ## May 25th 6pm - 8 pm - WeAreIn
 
@@ -15,4 +20,4 @@ Livestream: https://www.mlklabor.org/events/
 > 
 > Candidates who have qualified for the forum and are confirmed to attend include Colleen Echohawk, Jessyn Farrell, M. Lorena González, Bruce Harrell, Andrew Grant Houston, and Lance Randall.
 
-Source: https://wearein.org/mayoral-forum-2021/
+[Source](https://wearein.org/mayoral-forum-2021/)
