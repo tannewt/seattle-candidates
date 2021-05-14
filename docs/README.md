@@ -4,6 +4,8 @@ Primary is **August 3, 2021**
 
 [Source](http://web6.seattle.gov/ethics/elections/faqs.aspx?cycle=2021)
 
+# Mayoral Forums
+
 ## May 19th - MLK Labor
 
 > Join us on May 19 to hear from Seattle's Mayoral candidates on how they would address the biggest issues facing working people in our city. RSVP to the livestream at http://fb.me/e/4eThuuCgJ
